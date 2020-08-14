@@ -26,3 +26,6 @@ https://leetcode.com/problems/shuffle-string/
 
 Steps to Reduce to Zero Problem Link
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+Counting Bits Problem Link
+https://leetcode.com/problems/counting-bits/

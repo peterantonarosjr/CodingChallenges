@@ -26,3 +26,21 @@ https://leetcode.com/problems/shuffle-string/
 
 Steps to Reduce to Zero Problem Link
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+Counting Steps Problem Link
+https://leetcode.com/problems/climbing-stairs/
+
+House Robber Problem Link
+https://leetcode.com/problems/house-robber/
+
+Missing Array Values Problem Link
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+Perfect Number Problem Link
+https://leetcode.com/problems/perfect-number/
+
+Single Number Problem Link
+https://leetcode.com/problems/single-number/
+
+Two Sum Target Problem Link
+https://leetcode.com/problems/two-sum/

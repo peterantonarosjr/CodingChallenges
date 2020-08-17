@@ -47,3 +47,15 @@ https://leetcode.com/problems/two-sum/
 
 Counting Bits Problem Link
 https://leetcode.com/problems/counting-bits/
+
+Buy and Sell Stocks Problem Link
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+Buy and Sell Stock II Problem Link
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+Buy and Sell Stock III Problem Link
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+Water Container Problem Link
+https://leetcode.com/problems/container-with-most-water/

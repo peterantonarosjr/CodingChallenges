@@ -62,3 +62,6 @@ https://leetcode.com/problems/container-with-most-water/
 
 Consecutive Differences Problem Link
 https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+
+Goat Latin Problem Link
+https://leetcode.com/problems/goat-latin/

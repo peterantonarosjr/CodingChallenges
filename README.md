@@ -59,3 +59,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 
 Water Container Problem Link
 https://leetcode.com/problems/container-with-most-water/
+
+Consecutive Differences Problem Link
+https://leetcode.com/problems/numbers-with-same-consecutive-differences/

@@ -65,3 +65,6 @@ https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 
 Goat Latin Problem Link
 https://leetcode.com/problems/goat-latin/
+
+Rotate Matrix (Image) Problem Link
+https://leetcode.com/problems/rotate-image/

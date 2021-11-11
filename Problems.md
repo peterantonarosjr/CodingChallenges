@@ -72,8 +72,17 @@ https://leetcode.com/problems/rotate-image/
 Add Two Numbers Problem Link
 https://leetcode.com/problems/add-two-numbers/
 
-Roman To Integer
+Roman To Integer Problem Link
 https://leetcode.com/problems/roman-to-integer/
 
-Binary Tree In Order Traversal
+Binary Tree In Order Traversal Problem Link
 https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+Length of Last Word Problem Link
+https://leetcode.com/problems/length-of-last-word/
+
+Merge Two Sorted Lists Problem Link
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+Minimum Value to Get Positive Step By Step Sum
+https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/

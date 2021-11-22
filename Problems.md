@@ -86,3 +86,61 @@ https://leetcode.com/problems/merge-two-sorted-lists/
 
 Minimum Value to Get Positive Step By Step Sum
 https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+
+Length of Last Word
+https://leetcode.com/problems/length-of-last-word/
+
+Minimum Value To Get Positive Step by Step Sum
+https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+
+Binary Search
+https://leetcode.com/problems/binary-search/
+
+First bad Version
+https://leetcode.com/problems/first-bad-version/
+
+Palindrome Number
+https://leetcode.com/problems/palindrome-number/
+
+Reverse Integer
+https://leetcode.com/problems/reverse-integer/
+
+Remove Element
+https://leetcode.com/problems/remove-element/
+
+Search Insert Position
+https://leetcode.com/problems/search-insert-position/
+
+Squares Of A Sorted Array
+https://leetcode.com/problems/squares-of-a-sorted-array/
+
+Rotate Array
+https://leetcode.com/problems/rotate-array/
+
+Move Zeroes
+https://leetcode.com/problems/move-zeroes/
+
+TwoSumII-Input Array Is Sorted
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+Reverse String
+https://leetcode.com/problems/reverse-string/
+
+Reverse Words In A String III
+https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+Median Of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+Middle Of The Linked List
+https://leetcode.com/problems/middle-of-the-linked-list/
+
+Remove Nth Node From End Of List
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+Maxiumum Average Subarray I
+https://leetcode.com/problems/maximum-average-subarray-i/
+

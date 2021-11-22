@@ -144,3 +144,20 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 Maxiumum Average Subarray I
 https://leetcode.com/problems/maximum-average-subarray-i/
 
+Maximum Draws
+https://www.hackerrank.com/challenges/maximum-draws/submissions/code/243007313
+
+Handshake
+https://www.hackerrank.com/challenges/handshake/submissions/code/243008072
+
+Minimum Height Triangle
+https://www.hackerrank.com/challenges/lowest-triangle/problem
+
+Army Game
+https://www.hackerrank.com/challenges/game-with-cells/problem
+
+Cutting Paper Squares
+https://www.hackerrank.com/challenges/p1-paper-cutting/problem
+
+Find The Point
+https://www.hackerrank.com/challenges/find-point/problem
